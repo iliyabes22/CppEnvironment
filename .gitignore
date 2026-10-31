@@ -1,0 +1,12 @@
+# Personal schoolwork
+School/
+
+# Compiled C++ programs
+*.exe
+
+# Object files
+*.o
+*.obj
+
+# Temporary files
+*.tmp
